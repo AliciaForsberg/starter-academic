@@ -10,7 +10,7 @@ role: Lecturer at the University of Sheffield
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
+- name: University of Sheffield
   url: https://missouri.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral research fellow at the University of Missouri. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I like open science. 
+I am a Lecturer at the University of Sheffield. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I like open science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
