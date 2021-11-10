@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: PhD Student Recruitment
+subtitle: I am looking to recruit PhD students for the Fall of 2022. Please keep an eye on this space if you are interested, or feel free to reach out with any questions.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
