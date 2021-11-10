@@ -45,7 +45,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AliciaForsberg
+  link: https://twitter.com/AliciaForsberg 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=m5ouG4gAAAAJ&hl=en&oi=ao
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Lecturer at the University of Sheffield. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I like open science. 
+I am a Lecturer at the University of Sheffield. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I really like open science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
