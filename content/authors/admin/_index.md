@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=m5ouG4gAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/AliciaForsberg
+  link:  https://www.linkedin.com/in/aliciaforsberg/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
