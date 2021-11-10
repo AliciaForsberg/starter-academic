@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Lecturer in Psychology at the University of Sheffield. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I really like Open Science. 
+I am a Lecturer in Cognitive Psychology at the University of Sheffield. My research interests include working memory development, cognitive ageing, and lifespan meta-cognition. I really like Open Science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
