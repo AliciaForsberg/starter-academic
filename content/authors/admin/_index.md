@@ -6,7 +6,7 @@ title: Alicia Forsberg
 superuser: true
 
 # Role/position/tagline
-role: Postdoc at the University of Missouri
+role: Lecturer at the University of Sheffield
 
 # Organizations/Affiliations to show in About widget
 organizations:
