@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Alicia Test Project
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
